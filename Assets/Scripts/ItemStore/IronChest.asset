@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 35ffb700ac5905d4a895da76f4d948a0, type: 3}
-  m_Name: Helmet
+  m_Name: IronChest
   m_EditorClassIdentifier: 
-  name: Casque en fer
-  description: "Un casque r\xE9sistant."
-  visual: {fileID: 21300000, guid: 358541a3db89a6f45956a5d4726d7312, type: 3}
-  prefab: {fileID: 4951519970533930785, guid: c52e5e9a5efde7447bb8413cd3508598, type: 3}
+  name: Plastron en fer
+  description: "Un plastron r\xE9sistant."
+  visual: {fileID: 21300000, guid: 5469508ff4cb6e44aa9fe68b67aa755b, type: 3}
+  prefab: {fileID: 5637124446783124147, guid: 75f850b69ccbd1e40a87d33fd0956c0b, type: 3}
   itemType: 1
+  equipmentType: 1

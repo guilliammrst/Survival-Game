@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 35ffb700ac5905d4a895da76f4d948a0, type: 3}
-  m_Name: Helmet
+  m_Name: IronGloves
   m_EditorClassIdentifier: 
-  name: Casque en fer
-  description: "Un casque r\xE9sistant."
-  visual: {fileID: 21300000, guid: 358541a3db89a6f45956a5d4726d7312, type: 3}
-  prefab: {fileID: 4951519970533930785, guid: c52e5e9a5efde7447bb8413cd3508598, type: 3}
+  name: Gants en fer
+  description: "Une paire de gants r\xE9sistants."
+  visual: {fileID: 21300000, guid: 3f3f612e2e18b4742ba62c1d294abdc6, type: 3}
+  prefab: {fileID: 1516995890662431048, guid: b263582d69cb82f498b22e93d1ee1cf7, type: 3}
   itemType: 1
+  equipmentType: 2
