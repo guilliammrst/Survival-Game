@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 35ffb700ac5905d4a895da76f4d948a0, type: 3}
-  m_Name: Stone
+  m_Name: Helmet
   m_EditorClassIdentifier: 
-  name: Pierre
-  description: Une simple pierre.
-  visual: {fileID: 21300000, guid: f7111abcf951a1f4398426869d06640b, type: 3}
-  prefab: {fileID: 5151388066590337131, guid: f13e30a1a22f37148b0e36c2bb0fe70f, type: 3}
-  itemType: 0
+  name: Casque
+  description: Un simple casque en fer.
+  visual: {fileID: 21300000, guid: 358541a3db89a6f45956a5d4726d7312, type: 3}
+  prefab: {fileID: 4951519970533930785, guid: c52e5e9a5efde7447bb8413cd3508598, type: 3}
+  itemType: 1
