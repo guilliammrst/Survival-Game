@@ -15,6 +15,6 @@ MonoBehaviour:
   name: Gants en fer
   description: "Une paire de gants r\xE9sistants."
   visual: {fileID: 21300000, guid: 3f3f612e2e18b4742ba62c1d294abdc6, type: 3}
-  prefab: {fileID: 1516995890662431048, guid: b263582d69cb82f498b22e93d1ee1cf7, type: 3}
+  prefab: {fileID: 8177509968593728098, guid: 307181d2e2b569a44b65ae6d30519ea1, type: 3}
   itemType: 1
   equipmentType: 2
